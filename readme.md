@@ -1,4 +1,4 @@
-# prologue
+# triangles
 A simple generative exercise with a grid of triangles
 
 The triangles are distributed on a grid, the background is generated with perlin noise.
