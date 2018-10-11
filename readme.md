@@ -9,10 +9,12 @@ In `int mode = 0;` all triangles are drawn at equal angles, and one triangle is 
 <p align="center">
   <img alt="Triangles" src="https://github.com/jse-co/triangles/blob/master/images/triangles_1.png?raw=true" width="600" />
 </p>
+
 In `int mode = 1;` the triangles are circling the marked triangle.
 <p align="center">
   <img alt="Triangles" src="https://github.com/jse-co/triangles/blob/master/images/triangles_2.png?raw=true" width="600" />
 </p>
+
 In `int mode = 2;` the triangles are facing the marked triangle.
 <p align="center">
   <img alt="Triangles" src="https://github.com/jse-co/triangles/blob/master/images/triangles_3.png?raw=true" width="600" />
